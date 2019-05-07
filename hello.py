@@ -1,1 +1,2 @@
-oss class test file
+#oss class test file
+print("Hello World")
